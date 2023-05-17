@@ -1,0 +1,52 @@
+Topic : Employee Recruitment system
+
+team:
+
+direct customer,
+busssiness architecture,
+indirect customer,
+testing team,
+developement team
+
+
+objective:
+
+jobseekers can register themselves online, they can view organization requirement and apply for suitable job.
+They upload their CV and apply for suitable job for them.
+they also post their staff requirement.
+
+
+
+Functional requrement:
+ Any job seeker will able to view different suitable job for themselves. any job seeker will able to open any companies profile. jobseeker will updoad his/her cv. Any seeker will apply 24*7 to website. He need to register on website to apply . he has to give user id and password to register on website/application.
+.once he register on website then he can log in to website using same id and password.
+
+any company can see candidate information and cv . comapany also needs to register on the website. comapny can add or remove job requirement and qualification requirement. any company .any company can add requirement 24*7. comapny can hire people from website.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

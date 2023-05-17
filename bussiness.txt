@@ -1,0 +1,58 @@
+bussiness entities
+
+security:
+
+resistered jobseeker only apply to any organisation.	 
+It would protect confidential information shared by system .
+System will automatically log of  all recuiter after some time due to inactiveness.
+System  will internally maintain secure communiction channel between Servers ( Web Servers, App Servers, databse Server)
+		Sensitive data will be always encrypted across communcation.
+		User proper firewall to protect servers from out side fishing, velnerable attacks.
+
+
+Reliability
+The system will backup business data on regular basis and recover in short time duration to keep system operational Continous updates are matained, continous Adminstration is done to keep system operational.
+During peak hours system will maintain same user experaince by managing load balacning .
+
+Availability
+
+uptime:   24* 7  available   99.999%
+		
+
+Maintainability:
+
+A Commercial database software will be used to maintain System data Persistence.
+A readymade Web Server will be installed to host employee recruitement system (Web Site) to management server capabilities.
+IT operations team will easily monitor and configure System using Adminstrative tools provided by Servers.
+Separate enviornment will be maintained for system for isolation in  production, testing, and development.
+
+Portablility:
+
+PDA: Portable Device Application
+System will provide portable User Interface ( HTML, CSS, JS) through  users will be able to access employee recruitement system
+System can be deployed to single server, multi server, to any OS, Cloud (Azure or AWS or GCP)
+
+
+Accessibility:
+
+only registered seeker will be able to apply after authentication.
+recruitement team can reject application requests  based on role  provided.
+BOD team will be able to view daily, weekly, monthly, annual businss Growth throgh customized dashboard.
+
+Durability:
+
+System will retain seekers.
+System will implement backup and recovery for retaining seekers data, bussiness operation data and business data over time.
+
+Efficiency:
+
+System will be able to manage all transactions with isolation.
+
+Modularity:
+
+System will designed and developed using reusable, independent or dependent business senarios in the form of modules.
+These modules will be loosely coupled and highly cohesive.
+	
+Scalability:
+System will be able  to  provide  consistent user exeprience to jobseeker as well as vistors irrespective of load.
+
